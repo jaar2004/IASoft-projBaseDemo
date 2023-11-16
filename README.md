@@ -1,5 +1,5 @@
 # projBaseDemo
-Base project for develop asp.net core for demo
+Base project for develop asp.net core app for demo
 
 
 # Fecha creación
