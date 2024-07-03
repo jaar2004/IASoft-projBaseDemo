@@ -1,0 +1,6 @@
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\obj\Debug\net7.0\projBaseDemo.csproj.AssemblyReference.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\obj\Debug\net7.0\projBaseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\obj\Debug\net7.0\projBaseDemo.AssemblyInfoInputs.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\obj\Debug\net7.0\projBaseDemo.AssemblyInfo.cs
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\obj\Debug\net7.0\projBaseDemo.csproj.CoreCompileInputs.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\obj\Debug\net7.0\projBaseDemo.MvcApplicationPartsAssemblyInfo.cache

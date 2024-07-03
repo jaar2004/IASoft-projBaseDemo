@@ -1,0 +1,17 @@
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Application.deps.json
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Application.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Application.pdb
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Domain.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Shared.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Domain.pdb
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\bin\Debug\net7.0\projBaseDemo.Shared.pdb
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.csproj.AssemblyReference.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.AssemblyInfoInputs.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.AssemblyInfo.cs
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.csproj.CoreCompileInputs.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.csproj.CopyComplete
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\refint\projBaseDemo.Application.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\projBaseDemo.Application.pdb
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Application\obj\Debug\net7.0\ref\projBaseDemo.Application.dll

@@ -1,0 +1,12 @@
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\bin\Debug\net7.0\projBaseDemo.Shared.deps.json
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\bin\Debug\net7.0\projBaseDemo.Shared.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\bin\Debug\net7.0\projBaseDemo.Shared.pdb
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.csproj.AssemblyReference.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.AssemblyInfoInputs.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.AssemblyInfo.cs
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.csproj.CoreCompileInputs.cache
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\refint\projBaseDemo.Shared.dll
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\projBaseDemo.Shared.pdb
+C:\IAR\NETProjects\NET7\IASoft-projBaseDemo\projBaseDemo\projBaseDemo.Shared\obj\Debug\net7.0\ref\projBaseDemo.Shared.dll
