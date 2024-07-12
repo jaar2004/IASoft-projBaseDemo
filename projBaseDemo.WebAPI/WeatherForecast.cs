@@ -1,5 +1,4 @@
-
-namespace projBaseDemo
+namespace projBaseDemo.WebAPI
 {
     public class WeatherForecast
     {
