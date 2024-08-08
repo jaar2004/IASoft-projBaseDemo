@@ -16,16 +16,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\projBaseDemo.Domain\projBaseDemo.Domain.csproj" />
-    <ProjectReference Include="..\projBaseDemo.Shared\projBaseDemo.Shared.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Features\Articulo\Commands\DeleteArticulo\" />
-    <Folder Include="Features\Articulo\Commands\UpdateArticulo\" />
     <Folder Include="Features\Articulo\Queries\GetAllArticulos\" />
     <Folder Include="Features\Articulo\Queries\GetArticulobyId\" />
     <Folder Include="Features\Articulo\Queries\GetArticulosWithPagination\" />
+    <Folder Include="Features\Articulo\Queries\GetAllArticulos\" />
+    <Folder Include="Features\Articulo\Queries\GetArticulobyId\" />
+    <Folder Include="Features\Articulo\Queries\GetArticulosWithPagination\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\projBaseDemo.Domain\projBaseDemo.Domain.csproj" />
+    <ProjectReference Include="..\projBaseDemo.Shared\projBaseDemo.Shared.csproj" />
   </ItemGroup>
 
 </Project>

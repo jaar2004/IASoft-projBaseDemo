@@ -4,7 +4,7 @@
 
 namespace projBaseDemo.Domain.Common.Interfaces
 {
-    internal interface IAuditableEntity : IEntity
+    public interface IAuditableEntity : IEntity
     {
         int? CreatedBy { get; set; }
         DateTime? CreatedDate { get; set; }

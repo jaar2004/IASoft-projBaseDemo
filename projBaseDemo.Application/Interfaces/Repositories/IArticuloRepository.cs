@@ -11,10 +11,13 @@
    específica. En esta clase, se define un método adicional para obtener jugadores por el club
 */
 
+using projBaseDemo.Domain.Entities;
+
 namespace projBaseDemo.Application.Interfaces.Repositories
 {
     public interface IArticuloRepository
     {
+        Task<List<Articulo>> GetArticulosAsync();
 
     }
 }
