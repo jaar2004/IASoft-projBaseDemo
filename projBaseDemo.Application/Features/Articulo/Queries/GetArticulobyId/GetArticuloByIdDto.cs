@@ -2,9 +2,9 @@
 
 using projBaseDemo.Application.Common.Mappings;
 
-namespace projBaseDemo.Application.Features.Articulo.Queries.GetAllArticulos
+namespace projBaseDemo.Application.Features.Articulo.Queries.GetArticulobyId
 {
-    public class GetAllArticulosDto : IMapFrom<Domain.Entities.Articulo>
+    public class GetArticuloByIdDto : IMapFrom<Domain.Entities.Articulo>
     {
         public int ArticuloId { get; set; }
         public string Itemno { get; set; }
